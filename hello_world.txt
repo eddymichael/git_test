@@ -1,0 +1,1 @@
+This is a big refresher on how to use Git.  Troubleshooting it can be a pain.
